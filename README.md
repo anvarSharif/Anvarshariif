@@ -19,6 +19,23 @@
 
 ![Anvar sharif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anvarsharif&show_icons=true&theme=dark&count_private=true)
 
+## 🔥 Eng ko‘p ishlatilgan dasturlash tillari  
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anvarsharif&layout=compact&theme=dark)
+
+## ⚒️ Ishlatadigan texnologiyalar  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+</p>
+
+## 🔗 Mening ijtimoiy tarmoqlarim  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anvar-sharif-447767331)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[yourusername](https://t.me/@Anvarsharif))
+
 
 
 🚀 Всегда открыт для новых проектов и сотрудничества!
